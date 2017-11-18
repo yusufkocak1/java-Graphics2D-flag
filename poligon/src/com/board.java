@@ -50,13 +50,13 @@ public class board extends JPanel implements ActionListener {
 		addKeyListener(new KeyListener() {
 
 			@Override
-			public void keyTyped(KeyEvent arg0) {
+			public void keyTyped(KeyEvent e) {
 				// TODO Auto-generated method stub
 
 			}
 
 			@Override
-			public void keyReleased(KeyEvent arg0) {
+			public void keyReleased(KeyEvent e) {
 				// TODO Auto-generated method stub
 
 			}
